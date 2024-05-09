@@ -1,4 +1,2 @@
-boot_sect_simple.bin
-boot_sect_hello.bin
-boot_sect_memory.bin
+*.bin
 
